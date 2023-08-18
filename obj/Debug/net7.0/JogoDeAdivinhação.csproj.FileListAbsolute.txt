@@ -1,0 +1,14 @@
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\bin\Debug\net7.0\JogoDeAdivinhação.exe
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\bin\Debug\net7.0\JogoDeAdivinhação.deps.json
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\bin\Debug\net7.0\JogoDeAdivinhação.runtimeconfig.json
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\bin\Debug\net7.0\JogoDeAdivinhação.dll
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\bin\Debug\net7.0\JogoDeAdivinhação.pdb
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.AssemblyInfoInputs.cache
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.AssemblyInfo.cs
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.csproj.CoreCompileInputs.cache
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.dll
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\refint\JogoDeAdivinhação.dll
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.pdb
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\JogoDeAdivinhação.genruntimeconfig.cache
+H:\Programação\Linguagem C Alura\C# na alura\CshapNaAlura\JogoDeAdivinhação\obj\Debug\net7.0\ref\JogoDeAdivinhação.dll
